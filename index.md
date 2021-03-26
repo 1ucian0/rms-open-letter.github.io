@@ -996,7 +996,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Geoffrey Gilmour-Taylor (giltay)
 1. Geoffrey Michael
 1. Geoffrey Thomas
-1. George Cagle (@gcagle3)
 1. George Chriss
 1. George DeMet
 1. George Kiagiadakis (Collabora)
@@ -1599,6 +1598,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Lucas Nussbaum (Former Debian Project Leader)
 1. Lucas Werkmeister
 1. Luc Rocher (Imperial College London)
+1. Luciano Bello (Debian Developer)
 1. Lucy Wyman
 1. Ludovic Gasc
 1. Ludvig Norgren Guldhag
@@ -2050,7 +2050,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Philippe Normand
 1. Philip Withnall
 1. Philip Young
-1. Phillip Thelen
 1. Phil Pemberton (`@philpem`, DiscFerret developer, ptouch-driver maintainer)
 1. Pierre-Antoine "Leny" Delnatte
 1. Pierre Dupont
